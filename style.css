@@ -1,0 +1,84 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url(image/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 65%;
+    height: 55rem;
+    background-color: rgba(0, 0, 0, 0.637);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.logo {
+    margin-left: 40%;
+    margin-top: 100px;
+}
+
+h1 {
+    color: rgb(2, 239, 41);
+}
+
+.nav {
+    width: 80%;
+    height: 5%;
+    background-color: rgb(2, 239, 41);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    gap: 5px;
+    justify-content: center;
+}
+
+.monopattini {
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: azure;
+}
+
+p {
+    color: azure;
+    margin-top: -20px;
+}
+
+.carica-gino {
+    width: 40%;
+    height: 15px;
+    background-color: coral;
+    border-radius: 3px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+
+.carica-mike {
+    width: 60%;
+    height: 15px;
+    background-color: rgb(21, 186, 29);
+    border-radius: 3px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+
+.carica-fede {
+    width: 20%;
+    height: 15px;
+    background-color: rgb(255, 80, 80);
+    border-radius: 3px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
